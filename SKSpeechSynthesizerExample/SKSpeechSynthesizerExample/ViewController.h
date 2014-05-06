@@ -11,4 +11,8 @@
 
 @interface ViewController : UIViewController <AVSpeechSynthesizerDelegate>
 
+- (IBAction)startSpeaking:(id)sender;
+- (IBAction)pauseSpeaking:(id)sender;
+- (IBAction)stopSpeaking:(id)sender;
+
 @end
