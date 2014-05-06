@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1C400F19-BF03-49C7-82AA-67F6CA4042C9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SKSpeechSynthesizerExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>77E32B0C-9B87-4FE9-A9B4-6EF2986A4533</key>
+		<string>https://github.com/Sarojs/AVSpeechSynthesizer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SKSpeechSynthesizerExample/SKSpeechSynthesizerExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>77E32B0C-9B87-4FE9-A9B4-6EF2986A4533</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Sarojs/AVSpeechSynthesizer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>77E32B0C-9B87-4FE9-A9B4-6EF2986A4533</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>77E32B0C-9B87-4FE9-A9B4-6EF2986A4533</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AVSpeechSynthesizer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
