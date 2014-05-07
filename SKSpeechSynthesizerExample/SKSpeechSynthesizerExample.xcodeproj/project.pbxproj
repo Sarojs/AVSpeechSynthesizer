@@ -464,6 +464,7 @@
 				B4B6B0FC19195D44004CD02A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B4B6B0FD19195D44004CD02A /* Build configuration list for PBXNativeTarget "SKSpeechSynthesizerExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -472,6 +473,7 @@
 				B4B6B0FF19195D44004CD02A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

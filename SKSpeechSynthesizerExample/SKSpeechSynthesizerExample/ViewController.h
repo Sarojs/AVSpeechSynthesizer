@@ -6,10 +6,12 @@
 //  Copyright (c) 2014 Saroj Sharma. All rights reserved.
 //
 
-@import UIKit;
-@import AVFoundation.AVSpeechSynthesis;
+#import <UIKit/UIKit.h>
+#import <AVFoundation/AVSpeechSynthesis.h>
 
-@interface ViewController : UIViewController <AVSpeechSynthesizerDelegate>
+@interface ViewController : UIViewController <UITextViewDelegate, AVSpeechSynthesizerDelegate>{
+    
+}
 
 - (IBAction)startSpeaking:(id)sender;
 - (IBAction)pauseSpeaking:(id)sender;

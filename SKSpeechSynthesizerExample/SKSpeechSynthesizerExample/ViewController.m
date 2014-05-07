@@ -108,6 +108,14 @@
     _btnStopSpeaking.enabled = YES;
 }
 
+- (BOOL)textView:(UITextView *)textView shouldChangeTextInRange:(NSRange)range replacementText:(NSString *)text{
+    if ([text isEqualToString:@"\n"]) {
+        [textView resignFirstResponder];
+        return YES;
+    }
+    return YES;
+}
+
 #pragma mark- AVSpeechSynthesizerDelegate
 
 - (void)speechSynthesizer:(AVSpeechSynthesizer *)synthesizer didStartSpeechUtterance:(AVSpeechUtterance *)utterance{
